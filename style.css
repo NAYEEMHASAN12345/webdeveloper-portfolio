@@ -1,0 +1,22 @@
+body{
+    background-image: url(photos/Bangladesh.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    color: rgb(13, 125, 230);
+    text-align: center;
+    border-radius: 10%;
+    padding: 25px;
+    background-color: rgb(93, 77, 109);
+}
+header{
+    color: rgb(13, 125, 230);
+    text-align: center;
+    border-radius: 10%;
+    padding: 25px;
+    background-color: rgb(93, 77, 109);
+}
+hr{
+    color: black;
+}
